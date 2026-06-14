@@ -1,0 +1,14 @@
+[project]
+name = "matrixforge"
+version = "1.0.0"
+description = "A simple matrix calculator library."
+readme = "README.md"
+requires-python = ">=3.10"
+
+authors = [
+    {name = "Prince"}
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
