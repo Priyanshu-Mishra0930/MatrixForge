@@ -1,13 +1,25 @@
 [project]
 name = "matrixforge"
 version = "1.2.0"
-description = "A simple matrix calculator library."
+description = "A lightweight Python package for matrix operations."
 readme = "README.md"
 requires-python = ">=3.10"
 
 authors = [
-    {name = "Prince"}
+    { name = "Prince" }
 ]
+
+keywords = ["matrix", "mathematics", "linear-algebra", "python"]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Priyanshu-Mishra0930/MatrixForge"
+Repository = "https://github.com/Priyanshu-Mishra0930/MatrixForge"
 
 [build-system]
 requires = ["setuptools>=61.0"]
