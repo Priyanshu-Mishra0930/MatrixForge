@@ -1,5 +1,5 @@
 [project]
-name = "matrixforge"
+name = "matrixforge-pm"
 version = "1.2.0"
 description = "A lightweight Python package for matrix operations."
 readme = "README.md"

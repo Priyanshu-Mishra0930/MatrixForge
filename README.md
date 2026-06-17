@@ -16,22 +16,17 @@ A lightweight Python package for performing common matrix operations.
 
 ## Installation
 
+### Install from PyPI
+
+```bash
+pip install matrixforge-pm
+```
+
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/Priyanshu-Mishra0930/MatrixForge.git
 cd MatrixForge
-pip install -e .
-```
-
-### Download ZIP
-
-1. Click **Code → Download ZIP**
-2. Extract the archive
-3. Open a terminal in the project folder
-4. Run:
-
-```bash
 pip install -e .
 ```
 
@@ -118,12 +113,6 @@ Output:
 
 ---
 
-## Requirements
-
-* Python 3.10+
-
----
-
 ## Project Structure
 
 ```text
@@ -140,6 +129,26 @@ matrixcalc/
 
 ---
 
+## Requirements
+
+* Python 3.10+
+
+---
+
+## PyPI Package
+
+Package URL:
+
+https://pypi.org/project/matrixforge-pm/
+
+Install directly:
+
+```bash
+pip install matrixforge-pm
+```
+
+---
+
 ## Version
 
 Current Version: **v1.2.0**
@@ -149,3 +158,5 @@ Current Version: **v1.2.0**
 ## Author
 
 **Prince**
+
+GitHub: https://github.com/Priyanshu-Mishra0930
